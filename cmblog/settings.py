@@ -25,7 +25,7 @@ SECRET_KEY = 'z_=lruzn#u#^4yo#1y&nmot_^sh2g@tupms&rdmbvc*c@puu&('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.cmlearn.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.cmlearn.cn']
 
 
 # Application definition
